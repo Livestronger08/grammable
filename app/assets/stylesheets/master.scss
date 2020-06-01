@@ -36,21 +36,23 @@ body {
     background-color: #000000;
     border-radius: .25rem;
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
-    border: 1px solid #0010FF;
+    border: 10px solid #0010FF;
     margin-top: 40px;
     padding: 0;
 }
 
 .handle {
     margin: 10px;
-    color: #125688;
+    color: #0010FF;
     font-weight: bold;
     font-size: 18px;
 }
 
 .card p, .card .message {
+    color: #D7FF00;
+    font-weight: bold;
     font-size: 18px;
-    margin: 20px;
+    margin: 10px;
 }
 
 .card.form {
@@ -58,20 +60,22 @@ body {
 }
 
 label {
+    color: #D7FF00;
     font-size: 18px;
 }
 
 input {
+    color: #D7FF00;
     font-size: 18px;
     font-weight: 400;
 }
 
 .my-btn {
-    background-color: #125688;
+    background-color: #0010FF;
     width: 100%;
     border: none;
     font-size: 24px;
-    color: white;
+    color: #D7FF00;
     margin-top: 10px;
 }
 
@@ -93,16 +97,26 @@ input {
 }
 
 .comments {
+    color: #D7FF00;
     padding: 20px;
 }
 
 .comment {
-    font-size: 16px;
+    color: #0010FF;
+    font-size: 24px;
     margin-top: 5px;
 }
 
 .comment_handle {
-    color: #125688;
+    color: #0010FF;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 36px;
+}
+
+h1, h2, a, p {
+    color: #D7FF00;
+}
+
+.text-muted {
+    color: #D7FF00 !important;
 }
