@@ -156,7 +156,6 @@ GEM
     mimemagic (0.3.5)
     mini_magick (4.11.0)
     mini_mime (1.0.2)
-<<<<<<< HEAD
     mini_portile2 (2.5.0)
     minitest (5.14.3)
     msgpack (1.4.2)
@@ -165,24 +164,12 @@ GEM
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-=======
-    mini_portile2 (2.4.0)
-    minitest (5.14.3)
-    msgpack (1.3.3)
-    multi_json (1.14.1)
-    nio4r (2.5.2)
-    nokogiri (1.10.9)
-      mini_portile2 (~> 2.4.0)
->>>>>>> 25b6a303bc4de0065c3d3e86872f062f59927f1b
     orm_adapter (0.5.0)
     pg (1.2.3)
     popper_js (1.11.1)
     public_suffix (4.0.6)
     puma (3.12.6)
-<<<<<<< HEAD
     racc (1.5.2)
-=======
->>>>>>> 25b6a303bc4de0065c3d3e86872f062f59927f1b
     rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -269,11 +256,7 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     ssrf_filter (1.0.7)
-<<<<<<< HEAD
     thor (1.1.0)
-=======
-    thor (1.0.1)
->>>>>>> 25b6a303bc4de0065c3d3e86872f062f59927f1b
     thread_safe (0.3.6)
     tilt (2.0.10)
     turbolinks (5.2.1)
